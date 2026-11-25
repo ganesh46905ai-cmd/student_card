@@ -1,0 +1,6 @@
+{
+  "name": "Student ID Card Portal",
+  "description": "Online student ID card registration, instant digital ID preview, student status dashboard, and admin approval portal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
